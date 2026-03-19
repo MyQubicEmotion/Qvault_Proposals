@@ -12,4 +12,4 @@ that will generate revenues for holders.
 - **Trade Amount:** 150 Pulse SC Shares for 18,500 QCAP - about IPO price
 
 ### Conclusion
-If this proposal is approved,Qubic Capital will become top holder.
+If this proposal is approved, Qubic Capital will become top holder.
