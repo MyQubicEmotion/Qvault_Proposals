@@ -1,10 +1,7 @@
-# Qvault_Proposal
-Strategic proposal to strengthen the Qubic Capital project
-
 ## Proposal to trade PULSE SHARES for Qcaps
 
-## About Pulse 
-pulse is a 6-digit lottery smart contract on qubic 
+## About the SC 
+PULSE is a 6-digit lottery smart contract on qubic 
 that will generate revenues for holders.
 (PULSE shareholders: 10%)
 
