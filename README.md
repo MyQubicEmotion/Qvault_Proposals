@@ -6,7 +6,7 @@ that will generate revenues for holders.
 
 (PULSE shareholders: 10%) 
 
-its in final stage of development. 
+       ***in final stage of development. 
 
 ### Proposal Details
 - **Trade Amount:** 150 Pulse SC Shares for 18,500 QCAP - about IPO price
